@@ -27,7 +27,6 @@ If abbreviation_IsTrue Then
         Else
             State_Conversion = "#N/A"
         End If
-    
     Next
 End Function
 
